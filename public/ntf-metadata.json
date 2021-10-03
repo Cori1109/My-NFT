@@ -1,0 +1,48 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Horse-1",
+      "value": "Horse-1"
+    },
+    {
+      "trait_type": "Horse-2",
+      "value": "Horse-2"
+    },
+    {
+      "trait_type": "Horse-3",
+      "value": "Horse-3"
+    },
+    {
+      "trait_type": "Horse-4",
+      "value": "Horse-4"
+    },
+    {
+      "trait_type": "Horse-5",
+      "value": "Horse-5"
+    },
+    {
+      "trait_type": "Horse-6",
+      "value": "Horse-6"
+    },
+    {
+      "trait_type": "Horse-7",
+      "value": "Horse-7"
+    },
+    {
+      "trait_type": "Horse-8",
+      "value": "Horse-8"
+    },
+    {
+      "trait_type": "Horse-9",
+      "value": "Horse-9"
+    },
+    {
+      "trait_type": "Horse-10",
+      "value": "Horse-10"
+    },
+  ],
+  "description": "My beautiful horses!",
+  "image": "https://gateway.pinata.cloud/ipfs/QmeNbGVwuzRU48wPcgJco2UNsKNDXahRykTkELLhw3wfXs",
+  "name": "Horses"
+}
+
