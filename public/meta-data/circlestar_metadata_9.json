@@ -1,0 +1,24 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Background color",
+      "value" : "none"
+    }, {
+      "trait_type" : "Star color",
+      "value" : "none"
+    }, {
+        "trait_type" : "In-up color",
+        "value" : "yellow"
+    }, {
+        "trait_type" : "In-left color",
+        "value" : "dark"
+    }, {
+        "trait_type" : "In-right color",
+        "value" : "green"
+    }, {
+        "trait_type" : "In-down color",
+        "value" : "red"
+    } ],
+    "description" : "Clean Planet!",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmRrq5y6hSuyEuSneL2ymHqkvWy8wywH4wJZdxYGDpYz3S/cstar_9.png",
+    "name" : "Cleaning Cstar"
+}
